@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\hasan\\miniconda3\\envs\\ml-service\\python.exe"
+    "python.pythonPath": "C:\\Users\\hasan\\miniconda3\\envs\\ml-service\\python.exe",
+    "files.eol": "\n"
 }
